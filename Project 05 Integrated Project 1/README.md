@@ -9,3 +9,11 @@ Being provided data by an online store selling video games I conducted a market 
 
 ### Overview
 Things used
+
+
+### Applied Tools and Concepts
+Libraries: 
+- pandas
+- numpy
+- matplotlib
+- scipy
