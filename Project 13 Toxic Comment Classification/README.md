@@ -5,7 +5,7 @@ Training Projects
 
 
 ### Description
-An online store has enabled its customers to write article descriptions and comment the changes, now there is a number of toxic comments among 160 thousand written ones, and there will be new ones, so I built a machine learning model that predicts toxicity of new comments by learning from the written and marked ones and it should assist the moderators.
+An online store has enabled its customers to write article descriptions and comment the changes, now there is a number of toxic comments among 160 thousand written ones, and there will be new ones, so I built a machine learning model that is supposed to predict toxicity of new comments by learning from the marked up ones and it should assist the moderators.
 
 ### Overview
 
