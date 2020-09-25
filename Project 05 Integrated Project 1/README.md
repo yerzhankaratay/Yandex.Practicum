@@ -5,6 +5,7 @@ Training Projects
 
 
 ### Description
-I was provided data by an online store
+Being provided data by an online store selling video games I conducted analysis and found the present best selling platforms and genres by region to define what the best groups of products, i.e. video games to advertise are.
 
+### Overview
 Things used
