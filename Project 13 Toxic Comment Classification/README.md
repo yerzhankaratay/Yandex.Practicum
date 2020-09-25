@@ -21,5 +21,6 @@ I made several suggestions that may have improved the model but may or should al
 <sup>2</sup> **Lemmatization** (WordNetLemmatizer) produces root forms of words. \
 <sup>3</sup> **Stop words** are commonly used words (such as “the”, “a”, “an”, “in”) that a machine should be programmed to ignore cause they don't bring semantic values to the text. \
 **RegEx** operations are string-searching algorithms for "find" or "find and replace" operations on strings.
+**vstack** from *scipy* to concatenate the TF-IDF features from training and validation sets the right way for testing.
 
-scikit-learn (TF-IDF Vectorizer, GridSearchCV, LogisticRegression, DecisionTreeClassifier), LGBMClassifier, and vstack from scipy to concatenate the TF-IDF features from training and validation sets the right way for testing.
+**Libraries**: scikit-learn (TF-IDF Vectorizer, GridSearchCV, LogisticRegression, DecisionTreeClassifier), LGBMClassifier
