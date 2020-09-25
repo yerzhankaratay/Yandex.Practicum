@@ -16,9 +16,9 @@ In order to train and test the model, I split the dataframe in train (85% of dat
 In the course of the project I created and compared several models (Logistic Regression, Decision Tree Classifier, and LightGBM Classifier) that determine their toxicity, and chose LightGBM (which turned out to show the best score) with an F1 metric of 0.779 that surpassed the initially required score of 0.75, however it comes in the middle of the two other models if we compare them by the time it takes to run predictions. I made several suggestions that may have improved the model but may or should also take a lot more time to calculate.
 
 ### Applied Tools and Concepts
-**Tokenization** (WhiteSpaceTokenizer) chops up sentences into pieces (for example, word combinations and/or single words), called tokens.
-**Lemmatization** (WordNetLemmatizer) produces root forms of words.
-**Stop words** are commonly used words (such as “the”, “a”, “an”, “in”) that a machine should be programmed to ignore cause they don't bring semantic values to the text.
+**Tokenization** (WhiteSpaceTokenizer) chops up sentences into pieces (for example, word combinations and/or single words), called tokens. \
+**Lemmatization** (WordNetLemmatizer) produces root forms of words. \
+**Stop words** are commonly used words (such as “the”, “a”, “an”, “in”) that a machine should be programmed to ignore cause they don't bring semantic values to the text. \
 **RegEx** operations are string-searching algorithms for "find" or "find and replace" operations on strings.
 
 scikit-learn (TF-IDF Vectorizer, GridSearchCV, LogisticRegression, DecisionTreeClassifier), LGBMClassifier, and vstack from scipy to concatenate the TF-IDF features from training and validation sets the right way.
