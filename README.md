@@ -3,7 +3,7 @@ Training Projects
 
 ## Welcome! 
 
-One should find the projects made during my Data Science journey at Practicum by Yandex in this repository.
+One should find the projects made during my Data Science journey at Practicum by Yandex in this repository. \
 Here's my review of the training https://www.facebook.com/yerzhankaratay/posts/10221278439968086
 
 ## Projects
