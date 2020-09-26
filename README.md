@@ -8,7 +8,7 @@ Here's my review of the training https://www.facebook.com/yerzhankaratay/posts/1
 
 ## Projects
 
-As of now, I've only published and described some of the projects that I translated in English, so I'll be adding them.
+As of now, I've only published and described some of the projects that I translated in English, so I'll be adding what's left.
 
 ### Available Projects
 
