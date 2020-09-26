@@ -20,7 +20,7 @@ A considerable number of clients started leaving the bank that provided the data
 - Identifying the class imbalance<sup>3</sup>
 #### 4. Fighting Imbalanced Classes
 - Upsampling and Downsampling
-- Shuffling <sup>4</sup>
+- Shuffling<sup>4</sup>
 - Hyperparameter Tuning
 #### 5. Test
 
@@ -28,7 +28,7 @@ A considerable number of clients started leaving the bank that provided the data
 <sup>1</sup> Dummy Variable Trap is a scenario in which two or more variables are highly correlated; in simple terms one variable can be predicted from the others. (pandas: `get_dummies`) \
 <sup>2</sup> Splitting arrays into random train and test subsets. (sklearn: `train_test_split`) \
 <sup>3</sup> Class imbalance is a common problem in machine learning classification where there are a disproportionate ratio of observations in each class. \
-<sup>4</sup>
+<sup>4</sup> Shuffling is used to mix data randomly (sklearn: `shuffle`)
 
 **libraries**: pandas, numpy, sklearn
 **modeling approaches**: sklearn: DecisionTreeClassifier, LogisticRegression, RandomForestClassifier
