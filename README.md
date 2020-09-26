@@ -37,4 +37,4 @@ An online store has enabled its customers to write article descriptions and comm
 11 Numberical Methods \
 12 Time Series \
 14 Data Extraction \
-15 Computer Vision \
+15 Computer Vision
