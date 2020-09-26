@@ -12,7 +12,7 @@ As of now, I've only published and described some of the projects that I transla
 
 ### Available Projects
 
-05 Game Market Analysis \ 
+05 Game Market Analysis \
 Being provided data by an online store selling video games I conducted a market analysis and found the present most popular (or best selling) platforms and genres by region to define what the best groups of products, i.e. video games to advertise are.
 
 07 Bank Client Churn \
