@@ -34,9 +34,9 @@ Project Structure
 
 
 ### Applied Tools and Concepts
-Preprocessing: pivot tables
+Preprocessing: pivot tables \
 Visualization: pie chart, bar chart, scatter plot, box plot \
-Hypothesis Testing: Welch's t-test \
+Hypothesis Testing: Welch's t-test 
 
 Libraries: 
 - pandas
