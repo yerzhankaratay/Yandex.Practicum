@@ -9,18 +9,18 @@ A considerable number of clients started leaving the bank that provided the data
 
 ### Overview
 ### Project Structure
-1. Overview
+#### 1. Overview
 - Dataframe Size: 10000 observations
-2. Data Preparation
+#### 2. Data Preparation
 - One Hot Encoding to avoid dummy variable trap
 - Filling missing data
-3. Exploring the Task
+#### 3. Exploring the Task
 - Splitting in datasets for Machine Learning
 - Identifying the Class Imbalance
-4. Fighting Imbalanced Classes
+#### 4. Fighting Imbalanced Classes
 - Upsampling and Downsampling
 - Hyperparameter Tuning
-5. Test
+#### 5. Test
 
 
 
