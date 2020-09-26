@@ -30,6 +30,6 @@ A considerable number of clients started leaving the bank that provided the data
 <sup>3</sup> Class imbalance is a common problem in machine learning classification where there are a disproportionate ratio of observations in each class. \
 <sup>4</sup> Shuffling is used to mix data randomly (sklearn: `shuffle`)
 
-**libraries**: pandas, numpy, sklearn
-**modeling approaches**: sklearn: DecisionTreeClassifier, LogisticRegression, RandomForestClassifier
+**libraries**: pandas, numpy, sklearn \
+**modeling approaches**: sklearn: DecisionTreeClassifier, LogisticRegression, RandomForestClassifier \
 **metrics**: Accuracy Score, F1 Score, ROC-AUC Score
