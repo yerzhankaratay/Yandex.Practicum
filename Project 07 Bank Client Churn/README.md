@@ -32,4 +32,4 @@ A considerable number of clients started leaving the bank that provided the data
 
 **libraries**: pandas, numpy, sklearn \
 **modeling approaches**: sklearn: DecisionTreeClassifier, LogisticRegression, RandomForestClassifier \
-**metrics**: Accuracy Score, F1 Score, ROC-AUC Score
+**metrics**: Accuracy, F1, ROC-AUC
