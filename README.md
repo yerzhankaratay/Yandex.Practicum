@@ -1,4 +1,8 @@
 # Yandex.Practicum
 Training Projects
 
-Welcome! In this repository I keep my projects made during my Data Science studies at Practicum by Yandex.
+## Welcome! 
+
+One should find my projects made during the Data Science journey at Practicum by Yandex.
+
+## Overview
