@@ -18,7 +18,7 @@ Being provided data by an online store selling video games I conducted a market 
 
 07 **Bank Client Churn** \
 *Supervised Learning* \
-A considerable number of clients started leaving the bank that provided the data and it's best to retain them because as it turns out it's more cost-efficient than running a new advertising campaign to grow the client base anew. I developed a predictive model to detect them and assist the bank to prevent the churn.
+A considerable number of clients started leaving the bank that provided the data and it's best to retain them because as it turns out it's more cost-efficient than running a new advertising campaign to grow the client base anew. I developed a predictive model to detect them and help the bank to prevent the churn.
 
 13 **Toxic Comment Classification** \
 *Machine Learning for Texts* \
