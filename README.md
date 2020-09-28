@@ -27,14 +27,14 @@ An online store has enabled its customers to write article descriptions and comm
 
 ### Topics Studied in Pending Projects
 
-(01) Data Preprocessing \
-(02) Exploratory Data Analysis \
-(03) Statistical Data Analysis \
-(05) Introduction to Machine Learning \
-(07) Machine Learning in Business \
-(08) Integrated Project 2 \
-(09) Linear Algebra \
-(10) Numberical Methods \
-(11) Time Series \
-(13) Data Extraction \
-(14) Computer Vision
+(01) *Data Preprocessing* \
+(02) *Exploratory Data Analysis* \
+(03) *Statistical Data Analysis* \
+(05) *Introduction to Machine Learning* \
+(07) *Machine Learning in Business* \
+(08) *Integrated Project 2* \
+(09) *Linear Algebra* \
+(10) *Numberical Methods* \
+(11) *Time Series* \
+(13) *Data Extraction* \
+(14) *Computer Vision*
