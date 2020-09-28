@@ -7,8 +7,11 @@ Training Projects
 ### Description
 Being provided data by an online store selling video games I conducted a market analysis and found the present most popular (or best selling) platforms and genres by region to define what the best groups of products, i.e. video games to advertise are.
 
-### Overview
-Project Structure
+### Results of the Data Analysis and Hypothesis Testing
+
+
+
+
 #### 1. Overview
 - Dataframe shape: 16715 rows x 11 columns
 - Identifying missing data
