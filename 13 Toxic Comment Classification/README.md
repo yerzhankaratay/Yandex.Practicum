@@ -13,8 +13,10 @@ Being marked target variable (toxic: 1, not toxic: 0), I preprocessed the commen
 
 ### Conclusion
 
-In the course of the project I created and compared several models (Logistic Regression, Decision Tree Classifier, and LightGBM Classifier) that determine their toxicity, and chose LightGBM (which turned out to show the best score) with an F1 score of 0.779 that surpassed the initially required score of 0.75, however it comes in the middle of the two other models if we compare them by the time it takes to train. \
-I made several suggestions that may have improved the model but may or should also take a lot more time for calculations.
+In the course of the project I created and compared several models (Logistic Regression, Decision Tree Classifier, and LightGBM Classifier) that determine comment toxicity, and chose LightGBM (which turned out to show the best score) with an F1 score of 0.779 that surpassed the initially required score of 0.75, however it comes in the middle of the two other models if we compare them by the time it takes to train. \
+Several suggestions that may improve the model: \
+- lemmatize not the verbs but other parts of speech at data preprocessing stage
+- conduct a more thorough but also time consuming hyperparameter optimization
 
 ### Applied Tools and Concepts
 
