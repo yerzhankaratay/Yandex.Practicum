@@ -7,11 +7,9 @@ Training Projects
 ### Description
 An online store has enabled its customers to write article descriptions and comment the changes, now there is a number of toxic comments among 160 thousand written ones, and there will be new ones, so I built a machine learning model that is supposed to predict toxicity of new comments by learning from the marked up ones and it should assist the moderators.
 
-### Overview
+### A Sneak Peek at Data Preprocessing
 
-Being provided 2 column data having almost 160.000 rows with each row having a comment and a marked target variable (toxic: 1, not toxic: 0), I preprocessed the comments for modeling by tokenizing<sup>1</sup> and lemmatizing<sup>2</sup> them, considering stop words<sup>3</sup>, or basically put, made them machine-friendly. 
-
-In order to train and test the model, I split the dataframe in train (85% of data), validation and test datasets (each 7.5% of data)
+Being marked target variable (toxic: 1, not toxic: 0), I preprocessed the comments for modeling by tokenizing<sup>1</sup> and lemmatizing<sup>2</sup> them, considering stop words<sup>3</sup>, or basically put, made them machine-friendly. 
 
 ### Conclusion
 
