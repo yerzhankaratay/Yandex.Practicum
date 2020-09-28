@@ -1,7 +1,7 @@
 # Yandex.Practicum
 Training Projects
 
-## Project 5 - Exploring the Patterns that Determine the Success of a Video Game *Integrated Project 1*
+## Project 5 - Exploring the Patterns that Determine the Success of a Video Game
 
 
 ### Description
