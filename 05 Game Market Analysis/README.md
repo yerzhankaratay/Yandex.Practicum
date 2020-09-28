@@ -17,8 +17,7 @@ The following findings were established by the video game market analysis of mor
 - The ESRB rating affects sales in certain regions, it most likely depends on the number of consumers in different age groups and their preferences.
 #### Statistical hypothesis testing
 - Mean user scores on XBox One and PC are the same. (*failed to reject the hypothesis*)
-- Mean user scores of action and sports genres are different. (*the hypothesis should be rejected*), Action mean user scores are higher than Sports.
-
+- Mean user scores of action and sports genres are different. (*the hypothesis should be rejected in favor of the alternative one*: Action mean user scores are higher than Sports)
 
 ### Applied Tools and Concepts
 Data Preprocessing: pivot tables \
