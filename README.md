@@ -13,8 +13,8 @@ As of now, I've only published and described some of the projects that I transla
 ### Available Projects
 
 1 **[Game Market Analysis](https://github.com/yerzhankaratay/Yandex.Practicum/tree/master/05%20Game%20Market%20Analysis)** \
-*Integrated Project 1* \
-(04) Being provided data by an online store selling video games I conducted a market analysis and found the present most popular (or best selling) platforms and genres by region to define what the best groups of products, i.e. video games to advertise are.
+(04) *Integrated Project 1* \
+ Being provided data by an online store selling video games I conducted a market analysis and found the present most popular (or best selling) platforms and genres by region to define what the best groups of products, i.e. video games to advertise are.
 
 2 **[Bank Client Churn](https://github.com/yerzhankaratay/Yandex.Practicum/tree/master/07%20Bank%20Client%20Churn)** \
 (06) *Supervised Learning* \
