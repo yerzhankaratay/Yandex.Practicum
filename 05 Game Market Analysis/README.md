@@ -15,19 +15,18 @@ The following findings were established by the video game market analysis of mor
 - Most of the games come out in the Action genre, but on average they pay less than Shooters, while there are almost three times less Shooters than Action games.
 - Best-selling genres: Action, RPG, Sports and Shooters. Worst selling genres: Adventure, Strategy, Puzzle.
 - The ESRB rating affects sales in certain regions, it most likely depends on the number of consumers in different age groups and their preferences.
-#### Hypothesis testing
-- Mean user scores on XBox One and PC are the same. (*failed to reject the statement*)
+#### Statistical hypothesis testing
+- Mean user scores on XBox One and PC are the same. (*failed to reject the hypothesis*)
 - Mean user scores of action and sports genres are different. (*the hypothesis should be rejected*), Action mean user scores are higher than Sports.
 
 
-
 ### Applied Tools and Concepts
-Preprocessing: pivot tables \
-Visualization: pie chart, bar chart, scatter plot, box plot \
+Data Preprocessing: pivot tables \
+Data Visualization: pie chart, bar chart, scatter plot, box plot \
 Hypothesis Testing: Welch's t-test 
 
 Libraries: 
 - pandas
-- numpy 
+- numpy
 - matplotlib
 - scipy
