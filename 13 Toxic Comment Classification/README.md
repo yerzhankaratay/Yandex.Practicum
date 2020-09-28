@@ -9,7 +9,7 @@ An online store has enabled its customers to write article descriptions and comm
 
 ### Overview
 
-Being provided 2 column data having almost 160.000 rows with each row having a comment and a marked target variable (toxic: 1, not toxic: 0), I preprocessed the comments to prepare them for modeling by tokenizing<sup>1</sup> and lemmatizing<sup>2</sup> them, considering stop words<sup>3</sup>, or basically put, made them machine-friendly. 
+Being provided 2 column data having almost 160.000 rows with each row having a comment and a marked target variable (toxic: 1, not toxic: 0), I preprocessed the comments for modeling by tokenizing<sup>1</sup> and lemmatizing<sup>2</sup> them, considering stop words<sup>3</sup>, or basically put, made them machine-friendly. 
 
 In order to train and test the model, I split the dataframe in train (85% of data), validation and test datasets (each 7.5% of data)
 
