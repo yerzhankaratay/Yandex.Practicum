@@ -20,7 +20,7 @@ The following findings were established by the video game market analysis of mor
 - Mean user scores of action and sports genres are different. (*the hypothesis should be rejected in favor of the alternative one*: Action mean user scores are higher than Sports)
 
 ### Applied Tools and Concepts
-Data Preprocessing: pivot tables \
+Data Preprocessing: filling missing data, pivot tables \
 Data Visualization: pie chart, bar chart, scatter plot, box plot \
 Hypothesis Testing: Welch's t-test 
 
