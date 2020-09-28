@@ -17,8 +17,8 @@ In the course of the project I created and compared several models (Logistic Reg
 
 
 Several suggestions that may improve the model:
-- lemmatize not the verbs but other parts of speech at the preprocessing stage
-- conduct a more thorough but also time consuming hyperparameter optimization
+- lemmatize not the verbs but (also) other parts of speech at the preprocessing stage
+- conduct a more thorough and also time consuming hyperparameter optimization, which may not be quick enough for the production.
 
 ### Applied Tools and Concepts
 
