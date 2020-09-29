@@ -4,7 +4,7 @@ Training Projects
 ## Welcome! 
 
 Here one should find the projects made during my Data Science journey at Practicum by Yandex. \
-Here's my [review](https://www.facebook.com/yerzhankaratay/posts/10221278439968086) of the training 
+Here's my [review](https://www.facebook.com/yerzhankaratay/posts/10221278439968086) of the training.
 
 ## Projects
 
